@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **saivalpadasu1@proton.me**
 
-<h3 align="left">Check out all of certification & self built projects:</h3>
+<h3 align="left">Check out all of my certification & self built projects:</h3>
 <p align="left">
   <a href="https://codepen.io/saivalpadasu" target="blank"><img align="center" src="https://www.svgrepo.com/show/330189/codepen.svg" alt="saivalpadasu" height="50" width="50" /></a>&nbsp
   <a href="https://github.com/saivalpadasu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="saivalpadasu" height="50" width="50" /></a>
