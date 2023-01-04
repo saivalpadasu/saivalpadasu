@@ -5,7 +5,7 @@
 
 - 👨‍💻 My personal portfolio [https://saivalpadasu-4bddf.web.app/](https://saivalpadasu-4bddf.web.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript DOM, Basics of Python**
+- 💬 Ask me about **HTML, CSS, JavaScript DOM, BootStrap, Basics of Python, React Js**
 
 - 📫 How to reach me **saivalpadasu1@proton.me**
 
