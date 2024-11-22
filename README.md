@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript DOM, BootStrap, Basics of Python, React Js**
 
-- 📫 How to reach me **saivalpadasu1@proton.me**
+- 📫 How to reach me **saivalpadasu30@gmail.com**
 
 <h3 align="left">Check out all of my certification & self built projects:</h3>
 <p align="left">
